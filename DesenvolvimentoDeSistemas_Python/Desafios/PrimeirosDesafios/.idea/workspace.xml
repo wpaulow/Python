@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaca96f1-641f-4eb8-90a2-46beda354078" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PrimeirosDesafios" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>frase=</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Trabalhando com String/Ex5-Contagem de Letra e palavras.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Trabalhando com String/Ex6-Split e join.py" />
+        <option value="$PROJECT_DIR$/Desafio 10 - Convertendo cases.py" />
+        <option value="$PROJECT_DIR$/Desafio 11 - Conta Vogais.py" />
+        <option value="$PROJECT_DIR$/Desafio 2 - AumentoSalario.py" />
+        <option value="$PROJECT_DIR$/Desafio 3 - DescontoMercadoria.py" />
+        <option value="$PROJECT_DIR$/../PythonCasaDoCodigo/Testes Basicos.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Primeiros comandos/Desafio 1.py" />
+        <option value="$PROJECT_DIR$/Desafio 1 - MetrosMilimetros.py" />
+        <option value="$PROJECT_DIR$/Desafio 4 - NumeroMaiorMenor.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Estruturas Condicionais/D2-INSS Elifi.py" />
+        <option value="$PROJECT_DIR$/Tentativa Tabuada For Mais While.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Laços de Repetição/D1-Tabuada For.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Laços de Repetição/D2-Contagem letras for.py" />
+        <option value="$PROJECT_DIR$/Desafio 8 - Conta Letras.py" />
+        <option value="$PROJECT_DIR$/Desafio 9 - Mercadinho.py" />
+        <option value="$PROJECT_DIR$/Desafio 14 - MultiploComFuncao.py" />
+        <option value="$PROJECT_DIR$/Desafio 13 -Maior e Menor Funcao.py" />
+        <option value="$PROJECT_DIR$/Desafio 15 - AreaComFuncao.py" />
+        <option value="$PROJECT_DIR$/../ExerciciosFuncoes/Print N vezes N.py" />
+        <option value="$PROJECT_DIR$/../ExerciciosFuncoes/Soma Tres.py" />
+        <option value="$PROJECT_DIR$/../ExerciciosFuncoes/Soma Imposto.py" />
+        <option value="$PROJECT_DIR$/../ExerciciosFuncoes/Qntd Digitos.py" />
+        <option value="$PROJECT_DIR$/../CalculadoraPOO/calculadora.pyi" />
+        <option value="$PROJECT_DIR$/../CalculadoraPOO/calculadoras.py" />
+        <option value="$PROJECT_DIR$/../CalculadoraPOO/main.py" />
+        <option value="$PROJECT_DIR$/../CalculadoraPOO/D1 - Area do Circulo POO.py" />
+        <option value="$PROJECT_DIR$/../D1AreaDoCirculoPOO/main.py" />
+        <option value="$PROJECT_DIR$/../D1AreaDoCirculoPOO/circulo.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D1.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D2.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 5 - triangulos.py" />
+        <option value="$PROJECT_DIR$/Desafio 12 - Abreviar Nome Completo.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 7 - Mascara CPF.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D7.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex7 - testando.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex7 - CPF.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D8.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D6.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 6 - centenas.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 8 - fatorial.py" />
+        <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Maratona/ex 3 - Convertendo Cases.py" />
+        <option value="$PROJECT_DIR$/../Desafio3MVC/view/visaoFrase.py" />
+        <option value="$PROJECT_DIR$/../Desafio3MVC/controller/main.py" />
+        <option value="$PROJECT_DIR$/../Desafio3MVC/model/frase.py" />
+        <option value="$PROJECT_DIR$/../Desafio3MVC/controller/controleFrase.py" />
+        <option value="$PROJECT_DIR$/../Desafio4MVC/controller/main.py" />
+        <option value="$PROJECT_DIR$/../Desafio4MVC/model/imc.py" />
+        <option value="$PROJECT_DIR$/../Desafio4MVC/controller/controleIMC.py" />
+        <option value="$PROJECT_DIR$/../Desafio4MVC/view/visaoIMC.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-140" />
+    <option name="y" value="23" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Maratona" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="Desafio 10 - Convertendo cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PrimeirosDesafios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 10 - Convertendo cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex 3 - Convertendo Cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="funcoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Maratona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Maratona/ex 3 - Convertendo Cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desafio3MVC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desafio3MVC/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desafio3MVC/controller/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desafio4MVC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desafio4MVC/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desafio4MVC/controller/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MVC Wesley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/controller/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.Desafio 10 - Convertendo cases" />
+        <item itemvalue="Python.ex 3 - Convertendo Cases" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaca96f1-641f-4eb8-90a2-46beda354078" name="Default Changelist" comment="" />
+      <created>1552218396025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552218396025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.24289985" />
+      <window_info id="Structure" order="1" sideWeight="0.50851583" side_tool="true" weight="0.24289985" />
+      <window_info id="Favorites" order="2" sideWeight="0.50179857" side_tool="true" weight="0.24961598" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923196" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.24289985" />
+      <window_info id="Structure" order="1" sideWeight="0.50851583" side_tool="true" weight="0.24289985" />
+      <window_info id="Favorites" order="2" sideWeight="0.50179857" side_tool="true" weight="0.24961598" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923196" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Desafio 15 - AreaComFuncao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Funções/D3-Area quadrado.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../D1AreaDoCirculoPOO/circulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CalculadoraPOO/calculadoras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CalculadoraPOO/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../D1AreaDoCirculoPOO/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex2- Calculadorazinha.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 4 - area trapezio.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 5 - triangulos.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex1 - celsius fahreneit.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D1.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 3 - Convertendo Cases.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 7 - Mascara CPF.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex7 - CPF.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D7.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D8.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D6.py" />
+    <entry file="file://$PROJECT_DIR$/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 1 - MetrosMilimetros.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 3 - DescontoMercadoria.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 2 - AumentoSalario.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 9 - Mercadinho.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 11 - Conta Vogais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 13 -Maior e Menor Funcao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 12 - Abreviar Nome Completo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio 8 - Conta Letras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D2.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D3.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D4.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/maratona-python-lucas/D5.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 6 - centenas.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/funcoes/ex 8 - fatorial.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/Ex 1 - Calculadora MVC/view/visaoCalculadora.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/controller/controleGeometria.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/controller/main.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/model/calculadoraCirculo.py" />
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC Wesley/DesafioMVC2/view/visaoGeometria.py" />
+    <entry file="file://$PROJECT_DIR$/Desafio 10 - Convertendo cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/Maratona/ex 3 - Convertendo Cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC/MVC Wesley/Desafio2MVC/view/visaoGeometria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC/MVC Wesley/Desafio2MVC/controller/controleGeometria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="4" selection-end-line="65" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC/MVC Wesley/Desafio2MVC/model/calculadoraCirculo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/2oModuloDSN/Desenvolvimento de Sistemas_Python/MVC/MVC Wesley/Desafio2MVC/controller/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio3MVC/view/visaoFrase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio4MVC/controller/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio3MVC/controller/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio3MVC/model/frase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio4MVC/model/imc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio4MVC/view/visaoIMC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio3MVC/controller/controleFrase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desafio4MVC/controller/controleIMC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

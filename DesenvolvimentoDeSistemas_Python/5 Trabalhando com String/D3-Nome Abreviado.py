@@ -1,0 +1,5 @@
+nomeCompleto = input("Por favor digite seu nome completo: ")
+listaNomeSeparado = nomeCompleto.split(" ")
+listaNomeAbreviado = (listaNomeSeparado[0], listaNomeSeparado[-1])
+nomeAbreviado = " ".join(listaNomeAbreviado)
+print("Seu nome abreviado é:", nomeAbreviado)

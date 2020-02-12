@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Funcoes" />
+    <orderEntry type="module" module-name="D1AreaDoCirculoPOO" />
+    <orderEntry type="module" module-name="MVC Wesley" />
+    <orderEntry type="module" module-name="Desafio3MVC" />
+    <orderEntry type="module" module-name="Desafio2MVC" />
+    <orderEntry type="module" module-name="funcoes" />
+    <orderEntry type="module" module-name="Desafio4MVC" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
